@@ -4,7 +4,7 @@ AUTHOR: Vachia Thoj
 ————
 
 —— If you have Greenfoot installed —— 
-Clone/download the project, then go into the "TicTacToe folder."
+Clone/download the project, then go into the "TicTacToe" folder.
 There should be a file called "project.greenfoot" or "project". Click on this file to open the game in greenfoot. Then compile and run
 the program.
 
