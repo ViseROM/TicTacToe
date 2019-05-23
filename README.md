@@ -1,6 +1,6 @@
 PROJECT TITLE: Tic Tac Toe
 VERSION/DATE: 1.0 - May 2019
-AUTHORS: Vachia Thoj
+AUTHOR: Vachia Thoj
 ————
 
 —— If you have Greenfoot installed —— 
