@@ -4,7 +4,7 @@ AUTHORS: Vachia Thoj
 ————
 
 —— If you have Greenfoot installed —— 
-Clone/download the project, then open project.greenfoot and compile, then run.
+Clone/download the project, then open "project.greenfoot" and compile, then run.
 
 —— TicTacToe.jar ——
 There is an executable jar file called "TicTacToe.jar". Once the project has been downloaded, when clicking on this jar file, it
